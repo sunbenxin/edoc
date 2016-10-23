@@ -4,3 +4,12 @@
 [submodule "python"]
 	path = python
 	url = git@github.com:sunbenxin/python.git
+[submodule "lua"]
+	path = lua
+	url = git@github.com:LuaDist/lua.git
+[submodule "tornado"]
+	path = tornado
+	url = git@github.com:tornadoweb/tornado.git
+[submodule "bleve"]
+	path = bleve
+	url = git@github.com:blevesearch/bleve.git
