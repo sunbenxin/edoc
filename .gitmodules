@@ -13,3 +13,6 @@
 [submodule "bleve"]
 	path = bleve
 	url = git@github.com:blevesearch/bleve.git
+[submodule "k-vim"]
+	path = k-vim
+	url = git@github.com:sunbenxin/k-vim.git
